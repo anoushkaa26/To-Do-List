@@ -1,6 +1,3 @@
-Here's a sample README.md for your To-Do-List repository. You can copy and paste this into your repo, or let me know if you'd like it customized further!
-
----
 
 # To-Do List
 
